@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/h2service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/h2service/src/main/resources/application.properties" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/h2service/src/main/resources/db/data.sql" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/h2service/src/main/resources/db/schema.sql" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/kafka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka/src/main/resources/application.properties" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/redisdemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/redisdemo/src/main/java/com/cpf/qq/redisdemo/config/Swagger2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/redisdemo/src/main/resources/application.properties" charset="US-ASCII" />
+    <file url="jar://F:/app/maven/repository/org/springframework/boot/spring-boot-autoconfigure/2.4.4/spring-boot-autoconfigure-2.4.4.jar!/org/springframework/boot/autoconfigure/kafka/KafkaProperties.class" charset="UTF-16BE" />
+    <file url="jar://F:/app/maven/repository/org/springframework/spring-messaging/5.3.5/spring-messaging-5.3.5.jar!/org/springframework/messaging/handler/invocation/InvocableHandlerMethod.class" charset="GBK" />
+    <file url="jar://F:/app/maven/repository/org/springframework/spring-web/5.3.5/spring-web-5.3.5.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class" charset="GBK" />
+    <file url="jar://F:/app/maven/repository/org/springframework/spring-webmvc/5.3.5/spring-webmvc-5.3.5.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class" charset="UTF-16BE" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
