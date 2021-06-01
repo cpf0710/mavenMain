@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/kafka/pom.xml" />
         <option value="$PROJECT_DIR$/gateway/pom.xml" />
         <option value="$PROJECT_DIR$/h2service/pom.xml" />
+        <option value="$PROJECT_DIR$/websocket/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

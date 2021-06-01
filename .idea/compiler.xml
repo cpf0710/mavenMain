@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="h2service" />
-        <module name="gateway" />
-        <module name="redisdemo" />
         <module name="demo" />
+        <module name="gateway" />
+        <module name="websocket" />
         <module name="kafka" />
+        <module name="h2service" />
+        <module name="redisdemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -25,6 +26,7 @@
       <module name="kafka" options="-parameters" />
       <module name="redisdemo" options="-parameters" />
       <module name="redismodel" options="-parameters" />
+      <module name="websocket" options="-parameters" />
     </option>
   </component>
 </project>
